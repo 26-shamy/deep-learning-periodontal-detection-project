@@ -5,7 +5,6 @@ This project presents a deep learning pipeline for the automatic diagnosis of pe
 # Project Goals
 - Train a deep learning model to classify X-rays as `with cavity` or `without cavity`
 - Leverage Grad-CAM for visual model explainability
-- 
 
 ## Project Structure
 - `outputs/` – Heatmaps, graphs, and confusion matrices
